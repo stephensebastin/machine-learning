@@ -15,3 +15,9 @@ Example 2:
 (a) Regression - Given a picture of a person, we have to predict their age on the basis of the given picture
 
 (b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
+
+
+In supervised
+machine learning, the machine is presented with large amount of correctly solved
+examples (training data) and a programmed way to learn how to infer solutions
+for new, yet unseen examples (testing data).
